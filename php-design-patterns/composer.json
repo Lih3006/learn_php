@@ -1,0 +1,17 @@
+{
+    "name": "lih3006/design-patterns",
+    "description": "Padroes de Projeto",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core"
+        }
+
+    },
+    "authors": [
+        {
+            "name": "Aline Mendonca",
+            "email": "alineb3006@hotmail.com"
+        }
+    ],
+    "require": {}
+}
